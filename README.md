@@ -1,1 +1,1 @@
-# This is a simple card component.
+# This is a simple card component 🎴
